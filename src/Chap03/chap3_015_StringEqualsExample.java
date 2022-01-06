@@ -1,6 +1,6 @@
 package Chap03;					// ¹®ÀÚ¿­ ºñ±³
 
-public class chap4_015_StringEqualsExample {
+public class chap3_015_StringEqualsExample {
 
 	public static void main(String[] args) {
 		String strVar1 = "½Å¹ÎÃ¶";

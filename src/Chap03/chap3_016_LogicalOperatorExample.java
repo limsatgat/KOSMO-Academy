@@ -1,6 +1,6 @@
 package Chap03;					// 논리 연산자
 
-public class chap4_016_LogicalOperatorExample {
+public class chap3_016_LogicalOperatorExample {
 
 	public static void main(String[] args) {
 		int charCode = 'A';

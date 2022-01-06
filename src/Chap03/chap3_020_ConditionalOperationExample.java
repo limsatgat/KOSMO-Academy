@@ -1,12 +1,13 @@
 package Chap03;					// 삼항 연산자
 
-public class chap4_020_ConditionalOperationExample {
+public class chap3_020_ConditionalOperationExample {
 
 	public static void main(String[] args) {
 		int score = 85;
 		char grade = (score > 90) ? 'A' : ( (score >80) ? 'B' : 'C');
 		System.out.println(score + "점은 " + grade + "등급입니다.");
 
+		
 	}
 
 }

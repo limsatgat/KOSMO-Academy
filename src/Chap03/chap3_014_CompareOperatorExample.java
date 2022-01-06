@@ -1,6 +1,6 @@
 package Chap03;					// 비교 연산자
 
-public class chap4_014_CompareOperatorExample {
+public class chap3_014_CompareOperatorExample {
 
 	public static void main(String[] args) {
 		int num1 = 10;

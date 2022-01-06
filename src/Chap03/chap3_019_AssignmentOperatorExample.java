@@ -1,6 +1,6 @@
 package Chap03;					// 대입 연산자
 
-public class chap4_019_AssignmentOperatorExample {
+public class chap3_019_AssignmentOperatorExample {
 
 	public static void main(String[] args) {
 		int result = 0;

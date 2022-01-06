@@ -1,6 +1,6 @@
 package Chap03;					// 비트 이동 연산자
 
-public class chap4_018_BigShiftExample {
+public class chap3_018_BigShiftExample {
 
 	public static void main(String[] args) {
 		System.out.println("1 <<3 = " + (1<<3));
