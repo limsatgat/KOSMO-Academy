@@ -3,7 +3,7 @@ package d_array;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class first_try {
+public class first_try {			// 4학생의 3과목 성적 점수 입력 및 합계, 평균내기
 
 	public static void main(String[] args) {
 		
